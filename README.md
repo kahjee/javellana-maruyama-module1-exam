@@ -3,5 +3,6 @@
 Module 1 Exam for Web Development
 
 Created by:
-Jace Conrad Javellana
+Jace Conrad Javellana and
 Kagie Angelo Maruyama
+
